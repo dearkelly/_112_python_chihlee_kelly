@@ -5,5 +5,5 @@
 http://meet.google.com/bio-hmps-bpr
 
 ## 2023_10_14_早上
-[錄景] (http://youtube.com/live/YWTf5MMutsy)
+[錄影] (http://youtube.com/live/YWTf5MMutsy)
 
