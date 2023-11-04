@@ -36,5 +36,5 @@ class Student():
     def sum(self)->int: #實體方法
         return self.chinese + self.english + self.math
     
-def getStudent(name:str,chinese:int,math:int,) -> Student:
+def getStudent(name:str,chinese:int,english:int,math:int,) -> Student:
     return Student(name=name,chinese=chinese,english=english,math=math)
