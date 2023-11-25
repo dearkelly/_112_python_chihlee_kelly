@@ -5,3 +5,4 @@ fake-useragent
 openpyxl
 SQLAlchemy
 psycopg2
+numpy
